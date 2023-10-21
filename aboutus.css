@@ -1,0 +1,36 @@
+body{
+    background-color: image;
+    margin: 20px; /*space away from the margins*/
+    padding: 20px;
+} 
+h1{
+    font-size: 60px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(68, 68, 112);
+}
+h2{
+    font-size: 60px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(68, 68, 112);
+}
+
+h3{
+    color: brown;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+
+}
+p{
+    font: size 30px;
+    text-align: center;
+    padding:20px; /*padding space btn magins*/
+}
+img{
+    height: 100vh;
+    text-align: center;
+    justify-content:center;
+
+}
